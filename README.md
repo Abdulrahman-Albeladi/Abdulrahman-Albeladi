@@ -2,52 +2,27 @@
 
 <!-- employer-visual:start -->
 <p align="center">
-  <img src="assets/profile-overview.png" alt="Abdulrahman Albeladi project overview" width="100%">
+  <img src="assets/hero.png" alt="Abdulrahman Albeladi – profile hero highlighting ML/AI, data, and software projects" width="100%">
 </p>
 <!-- employer-visual:end -->
 
+I build practical, end-to-end data and machine learning solutions—from research-grade analysis to production-ready software. University of Maryland CS (ML track) and Mathematics graduate.
 
-Computer Science and Mathematics graduate from the University of Maryland, focused on machine learning, data, AI, research engineering, and software development.
+مهندس بيانات وذكاء اصطناعي يطوّر حلولاً عملية من التحليل إلى الإنتاج، مع تركيز على السوق السعودي.
 
-**Technical focus:** Python · Machine Learning · Data Analysis · AI · Java · C · Kotlin
+- Location & availability: Based in Saudi Arabia; Eastern Province preferred, open to Riyadh. Open to full-time opportunities.
+- Skills / Tech stack: Python · Machine Learning · Data Analysis · AI · Java · C · Kotlin; Tools: Git · Jupyter Notebooks
 
-Open to full-time opportunities in Saudi Arabia, with a preference for the Eastern Province and openness to Riyadh.
-
-## Featured work
+## Featured Projects
 
 - **[Research Toolkit](https://github.com/Abdulrahman-Albeladi/research-toolkit)** — Reusable Python and notebook workflows for multilingual research-data preparation, statistical analysis, and AI-text detector evaluation.
 - **[ML From Scratch](https://github.com/Abdulrahman-Albeladi/ml-from-scratch)** — Machine-learning algorithms implemented from first principles using Python and NumPy.
-- **[Data Science](https://github.com/Abdulrahman-Albeladi/data-science)** — Data-science notebooks covering real-estate analysis, regression, optimization, neural networks, and classification.
-- **[Computer Vision](https://github.com/Abdulrahman-Albeladi/computer-vision)** — Computer-vision notebooks covering segmentation, panorama stitching, 3D reconstruction, and stereo depth.
+- **[Data Science](https://github.com/Abdulrahman-Albeladi/data-science)** — Notebooks covering real-estate analysis, regression, optimization, neural networks, and classification.
+- **[Computer Vision](https://github.com/Abdulrahman-Albeladi/computer-vision)** — Notebooks on segmentation, panorama stitching, 3D reconstruction, and stereo depth.
 - **[Prime Computing](https://github.com/Abdulrahman-Albeladi/prime-computing)** — Prime-number algorithms, primality tests, and computational experiments from independent mathematical research.
-- **[Running Tracker](https://github.com/Abdulrahman-Albeladi/running-tracker)** — Android running application with location tracking, maps, session recording, and reconstructed project structure.
+- **[Running Tracker](https://github.com/Abdulrahman-Albeladi/running-tracker)** — Android application with location tracking, maps, session recording, and a modernized project structure.
 
-## Portfolio
-
-### Research and data
-
-- [Research Toolkit](https://github.com/Abdulrahman-Albeladi/research-toolkit)
-- [Survey Analysis](https://github.com/Abdulrahman-Albeladi/survey-analysis)
-- [Data Science](https://github.com/Abdulrahman-Albeladi/data-science)
-### Machine learning and AI
-
-- [ML From Scratch](https://github.com/Abdulrahman-Albeladi/ml-from-scratch)
-- [Computer Vision](https://github.com/Abdulrahman-Albeladi/computer-vision)
-- [AI Projects](https://github.com/Abdulrahman-Albeladi/ai-projects)
-### Mathematics
-
-- [Prime Computing](https://github.com/Abdulrahman-Albeladi/prime-computing)
-### Software and CS foundations
-
-- [Running Tracker](https://github.com/Abdulrahman-Albeladi/running-tracker)
-- [Android Projects](https://github.com/Abdulrahman-Albeladi/android-projects)
-- [Algorithms](https://github.com/Abdulrahman-Albeladi/algorithms)
-- [Java Projects](https://github.com/Abdulrahman-Albeladi/java-projects)
-- [Programming Languages](https://github.com/Abdulrahman-Albeladi/programming-languages)
-- [Shell Tools](https://github.com/Abdulrahman-Albeladi/shell-tools)
-- [C Systems](https://github.com/Abdulrahman-Albeladi/c-systems)
-
-## Background
+## Education & Honors
 
 - B.S. Computer Science — Machine Learning track, University of Maryland
 - B.S. Mathematics, University of Maryland
@@ -56,4 +31,4 @@ Open to full-time opportunities in Saudi Arabia, with a preference for the Easte
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/abdulrahman-albeladi-3731bb219)
+LinkedIn: https://www.linkedin.com/in/abdulrahman-albeladi-3731bb219
