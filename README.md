@@ -25,4 +25,5 @@ I build practical, end-to-end data and machine learning solutions—from researc
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/abdulrahman-albeladi-3731bb219
+
 Email: albeladi.abdulr@gmail.com
