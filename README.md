@@ -1,10 +1,5 @@
 # Abdulrahman Albeladi
 
-<!-- employer-visual:start -->
-<p align="center">
-  <img src="assets/hero.png" alt="Abdulrahman Albeladi – profile hero highlighting ML/AI, data, and software projects" width="100%">
-</p>
-<!-- employer-visual:end -->
 
 I build practical, end-to-end data and machine learning solutions—from research-grade analysis to production-ready software. University of Maryland CS (ML track) and Mathematics graduate.
 
