@@ -3,8 +3,6 @@
 
 I build practical, end-to-end data and machine learning solutions—from research-grade analysis to production-ready software. University of Maryland CS (ML track) and Mathematics graduate.
 
-مهندس بيانات وذكاء اصطناعي يطوّر حلولاً عملية من التحليل إلى الإنتاج، مع تركيز على السوق السعودي.
-
 - Location & availability: Based in Saudi Arabia; Eastern Province preferred, open to Riyadh. Open to full-time opportunities.
 - Skills / Tech stack: Python · Machine Learning · Data Analysis · AI · Java · C · Kotlin; Tools: Git · Jupyter Notebooks
 
